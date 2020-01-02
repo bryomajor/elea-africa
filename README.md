@@ -2,7 +2,7 @@
 
 
 ## Description
-Elea Africa is a web app that allows users to view Elea Africa's portfolio and get in touch with their contact person.
+Elea Africa is a web app that allows users to view Elea Africa's portfolio and get in touch with their contact person. It consists of a [backend](https://github.com/bryomajor/elea-africa-backend) and a [frontend](https://github.com/bryomajor/elea-africa-frontend).
 
 
 ## Author
@@ -34,11 +34,11 @@ Footer loads | User enters their email | If email is valid, success message show
 ### Cloning
 * In your terminal:
         
-        $ git clone https://github.com/bryomajor/elea-africa.git
-        $ cd elea-africa
+        $ git clone https://github.com/bryomajor/elea-africa-frontend.git (To clone the frontend)
+        $ git clone https://github.com/bryomajor/elea-africa-backend.git (To clone the backend)
 
 ### Usage
-Each directory i.e. crud (front-end) and django (backend) has installation and configuration instructions.
+Each directory in this project i.e. [crud](https://github.com/bryomajor/elea-africa-frontend) (front-end) and [django](https://github.com/bryomajor/elea-africa-backend) (backend) has installation and configuration instructions.
 
 ## Support and Team
 Brian Major
