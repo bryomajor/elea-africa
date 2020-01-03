@@ -2,7 +2,7 @@
 
 
 ## Description
-Elea Africa is a web app that allows users to view Elea Africa's portfolio and get in touch with their contact person. It consists of a [backend](https://github.com/bryomajor/elea-africa-backend) and a [frontend](https://github.com/bryomajor/elea-africa-frontend).
+Elea Africa is a web app that allows users to view Elea Africa's portfolio and get in touch with their contact person. It consists of a [backend](https://github.com/bryomajor/elea-africa-backend) and a [frontend](https://github.com/bryomajor/elea-africa-frontend). You can visit the live site here [https://elea-africa-c0788.firebaseapp.com/home](https://elea-africa-c0788.firebaseapp.com/home).
 
 
 ## Author
@@ -39,6 +39,9 @@ Footer loads | User enters their email | If email is valid, success message show
 
 ### Usage
 Each directory in this project i.e. [crud](https://github.com/bryomajor/elea-africa-frontend) (front-end) and [django](https://github.com/bryomajor/elea-africa-backend) (backend) has installation and configuration instructions.
+
+### Known Bugs
+The subscription form has bugs hence not fully functioning.
 
 ## Support and Team
 Brian Major
